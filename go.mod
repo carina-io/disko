@@ -1,4 +1,4 @@
-module github.com/anuvu/disko
+module github.com/carina-io/disko
 
 go 1.19
 
